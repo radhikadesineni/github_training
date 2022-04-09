@@ -1,1 +1,2 @@
 This is my git training file2
+adding new line to the file:
